@@ -1,0 +1,8 @@
+setuptools>=65.5.1
+wheel
+
+fastapi
+uvicorn
+numpy>=1.23,<1.26
+tensorflow>=2.12,<2.13
+pydantic
